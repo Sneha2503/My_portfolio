@@ -82,3 +82,27 @@ const lightbox=document.querySelector(".lightbox"),
 			toggleLightbox();
 		}
 	})
+
+
+	function mesons() {
+		window.location.href = "https://youtu.be/H_HACjJSufQ";
+	  }
+
+	  function innovadia() {
+		window.location.href = "https://www.youtube.com/watch?v=lTfkts9bvJo";
+	  }
+
+	  function ethosway() {
+		window.location.href = "https://www.youtube.com/watch?v=Vk52zKfQLx4";
+	  }
+
+	  function trackme() {
+		window.location.href = "https://www.youtube.com/watch?v=nAh3UD5dOwM";
+	  }
+	  function quiz() {
+		window.location.href = "#";
+	  }
+
+	  function rps() {
+		window.location.href = "#";
+	  }

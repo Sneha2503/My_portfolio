@@ -939,3 +939,7 @@ body.dark .shadow-dark {
     max-width: 100%;
   }
 }
+
+.service-item {
+  cursor: pointer;
+}
